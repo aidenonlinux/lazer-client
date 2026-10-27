@@ -9,6 +9,13 @@
 ### so this is a osu!lazer client that is in development and is going to have actually good features
 ### it relies on peppys servers (Bancho) for beatmaps and accounts (for now) and has custom logo and more
 
+## Apply for admin
+### So when my new servers are up i will need some admins.
+
+### Where can you apply?
+just send me an e-mail *(📧 theduckerina@duck.com)* and i will get in touch with you! 
+
+
 ## What it comes with:
 
 - Good beatmaps
