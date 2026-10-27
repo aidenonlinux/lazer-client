@@ -17,7 +17,7 @@
 
 ## Credits
 ### osu!, osu!lazer and Bancho: __[peppy / ppy](https://ppy.sh)__
-### lazer!: __[Aidenonlinux](https://aidenonlinux.github.io/projects)
+### lazer!: __[Aidenonlinux](https://aidenonlinux.github.io/projects)__
 
 
 ### THIS README IS MADE BY AIDENONLINUX
