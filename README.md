@@ -1,39 +1,62 @@
->[!NOTE]
-> This is only a repo with a README, because the repo that i'm working with is private for now.
+> [!NOTE]
+> This repository currently only contains the project README. The main codebase is private for now.
 
-<img src="lazer!.png" width="300" alt="logo">
+<img src="lazer!.png" width="300" alt="lazer! client logo">
 
 # lazer! client
-## a osu!lazer client that is actually good
-### created by [Aidenonlinux](https://aidenonlinux.github.io) | dev, gamer, and more
-### all credits go to [_peppy / ppy_](https://ppy.sh)
+## A osu!lazer client that is actually good
 
+### Created by [Aidenonlinux](https://aidenonlinux.github.io)
+Dev, gamer, and more.
+
+### All credits go to [_peppy / ppy_](https://ppy.sh)
+
+---
 
 ## What it is
-### so this is a osu!lazer client that is in development and is going to have actually good features
-### it relies on peppys servers (Bancho) for beatmaps and accounts (for now) and has custom logo and more
 
-## Apply for admin
-### So when my new servers are up i will need some admins.
+lazer! client is an osu!lazer client in development, built to offer a more polished and feature-rich experience than the default setup.
 
-### Where can you apply?
-just send me an e-mail *(📧 theduckerina@duck.com)* and i will get in touch with you! 
+It currently relies on Peppy's servers (Bancho) for beatmaps and accounts, and it includes a custom logo and other visual/custom improvements.
 
+---
 
-## What it comes with:
+## Features
 
 - Good beatmaps
 - Good skins (like YUGEN)
-- a good logo (that uses the Ubuntu font and NOT the Aller font 👍)
+- A better-looking logo using the Ubuntu font, not the Aller font 👍
+- A more refined client experience overall
+- Ongoing development with future improvements planned
+
+---
+
+## Project status
+
+This project is still in active development.
+
+The goal is to create a client with better quality-of-life features, stronger customization, and a smoother overall experience.
+
+---
+
+## Apply for admin
+
+When the new servers are online, admin applications will open.
+
+### Where can you apply?
+Send me an email at [theduckerina@duck.com](mailto:theduckerina@duck.com), and I’ll get in touch.
+
+---
 
 ## Credits
-### osu!, osu!lazer and Bancho: __[peppy / ppy](https://ppy.sh)__
-### lazer!: __[Aidenonlinux](https://aidenonlinux.github.io/projects)__
 
+- osu!, osu!lazer, and Bancho: [peppy / ppy](https://ppy.sh)
+- lazer!: [Aidenonlinux](https://aidenonlinux.github.io/projects)
 
-
-
+---
 
 > Made by Aidenonlinux.
-> 
-> Youtube: @JustWompie | Site: [aidenonlinux.github.io/projects](https://aidenonlinux.github.io/projects) | GitHub: Aidenonlinux
+>
+> YouTube: @JustWompie  
+> Site: [aidenonlinux.github.io/projects](https://aidenonlinux.github.io/projects)  
+> GitHub: [Aidenonlinux](https://github.com/aidenonlinux)
