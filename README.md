@@ -31,4 +31,5 @@ just send me an e-mail *(📧 theduckerina@duck.com)* and i will get in touch wi
 ### lazer!: __[Aidenonlinux](https://aidenonlinux.github.io/projects)__
 
 
-### THIS README IS MADE BY AIDENONLINUX
+>[!Made by Aidenonlinux.]
+> Youtube: @JustWompie | Site: [aidenonlinux.github.io/projects](https://aidenonlinux.github.io/projects) | GitHub: Aidenonlinux
