@@ -5,6 +5,9 @@
 ### created by [Aidenonlinux](https://aidenonlinux.github.io) | dev, gamer, and more
 ### all credits go to [_peppy / ppy_](https://ppy.sh)
 
+>[!NOTE]
+> This is only a repo with a README, because the repo that i'm working with is private for now.
+
 ## What it is
 ### so this is a osu!lazer client that is in development and is going to have actually good features
 ### it relies on peppys servers (Bancho) for beatmaps and accounts (for now) and has custom logo and more
