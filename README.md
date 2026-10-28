@@ -20,7 +20,7 @@ just send me an e-mail *(📧 theduckerina@duck.com)* and i will get in touch wi
 
 - Good beatmaps
 - Good skins (like YUGEN)
-- a good logo
+- a good logo (that uses the Ubuntu font and NOT the Aller font 👍)
 
 ## Credits
 ### osu!, osu!lazer and Bancho: __[peppy / ppy](https://ppy.sh)__
