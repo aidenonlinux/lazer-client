@@ -1,6 +1,9 @@
 > [!NOTE]
 > This repository currently only contains the project README. You can find the full repo [here](https://github.com/aidenonlinux/lazer.client).
 
+> [!WARNING]
+> This is built on a actual chromebook so when the first release is out, there could be some bugs...
+
 <img src="lazer!.png" width="300" alt="lazer! client logo">
 
 # lazer! client
